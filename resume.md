@@ -2,26 +2,27 @@ António Correia
 =================
 ----
 
->  Data Scientist building machine learning models to prevent
->  payment fraud at Feedzai. I am motivated and fast-learning,
->  and I've been working with data for the past 6 years.
+>  I'm a Data Scientist fighting fraud at Feedzai. 
+>  I love working with data, and I've been doing it professionally for 6+ years.
+>  I'm motivated and fast-learning, while also relaxed and friendly.
 
 ----
 
 Experience
 ----------
 
-**Data Scientist, Feedzai Aug-19 to Present**
+**Data Scientist, Feedzai <br> Aug-19 to Now**
 
 :   * Developing and deploying tree-based machine learning models for real-time transaction fraud scoring at global merchants and acquirers
-    * Building data validation and preprocessing pipelines for large distributed batches of data using Spark
+    * Building data validation and preprocessing pipelines for large distributed datasets using Spark
     * Contributing to internal tools for model training pipelines and for model explainability
     * Working closely with software engineers, project managers and subject matter experts under the Agile methodology
     * Working closely with client stakeholders to discuss models, fraud detection strategies and data issues
- 
+
+
 **Advisor, Bank of Portugal <br> Sep-14 to Jul-19**
 :   * Producing research reports as an analyst of the banking sector analysis team in the Banking Supervision Department
-    * Developing ETL and pipeline procedures to feed data visualizations and financial modelling reports
+    * Developing ETL and data pipelines to feed data visualizations and financial modelling
     * Contributing to international working groups at the European Central Bank and the European Banking Authority
 
 
@@ -37,46 +38,37 @@ Education
 
 **Aug-13 to Aug-14**
 :   **Master's Degree in Economics**; Tilburg University (Tilburg) <br>
-    *Graduated _cum laude_*
+    *Graduated* cum laude
     
 **Sep-08 to Jul-11**
 :   **Bachelor's Degree in Economics**; NOVA SBE (Lisbon)
 
-Technical Experience
+Skills
 --------------------
 
 **Computer Languages**
-:   **Python:** Using Python and PySpark in my daily work for ad-hoc
+:   **Python and Spark:** Using Python and PySpark in my daily work for ad-hoc
     data exploration, automation scripts for data processing, model 
-    training and evaluation, and automating recurrent tasks. I mostly use
-    Python for side projects maintained in my [github repo](https://github.com/aglcorreia/).
+    training and evaluation, and automating recurrent tasks. 
 
 :   **SQL:** Using SQL in my daily work for ad-hoc data exploration
     and monitoring production data. I also contribute to maintaining
     data extraction pipelines in SQL.
 
-:   Basic knowledge of **Java**, **bash**, **R**, **JavaScript**
+:   Basic knowledge of **bash**, **git**, **Docker**, **Java**, **PowerBI**, **R**, **JavaScript**
 
-Extra Section, Call it Whatever You Want
+**Human Languages**
+:   Portuguese (native), English (fluent), Spanish (intermediate)
+
+Other Projects
 ----------------------------------------
 
-**Intern at Portugal Economy Probe (Jul-12 to Jul-13)**
-:   * Creating reports and presentations on the Portuguese economy
-    * Contributing to website design
+* I sometimes like to take on small learning projects and I post them on my [github repo](https://github.com/aglcorreia/).
 
-* Human Languages:
-
-     * Portuguese (native)
-     * English (fluent)
-     * Spanish (intermediate).
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Me and some friends started a [Kaggle meetup](https://www.meetup.com/Lisbon-Kaggle/) in Lisbon and we currently have more than 800 members
 
 ----
 
-> Based in Lisbon, Portugal <br>
-> Born on 15 October 1990 <br>
+> Born on 15 October 1990 • Based in Lisbon, Portugal <br>
 > <antonio.le.correia@gmail.com> • +351 913 390 173 <br>
-> <a href="https://github.com/aglcorreia/"><img alt="GitHub repo" src="./images/GitHub-Mark-32px.png?raw=true" width="24"/></a> • <a href="https://www.linkedin.com/in/antonioglcorreia/"><img alt="LinkedIn page" src="./images/LI-In-Bug.png?raw=true" width="24"/></a>
+> <a href="https://github.com/aglcorreia/"><img alt="GitHub repo" src="./images/GitHub-Mark-32px.png?raw=true" width="24"/></a> • <a href="https://www.linkedin.com/in/antonioglcorreia/"><img alt="LinkedIn page" src="./images/LI-In-Bug.png?raw=true" width="24"/></a> • <a href="https://twitter.com/antoniogcorreia/"><img alt="Twitter" src="./images/Twitter social icons - circle - blue.png?raw=true" width="24"/></a> • <a href="https://open.spotify.com/user/1166731195/"><img alt="Spotify profile" src="./images/Spotify_Logo_RGB_Green.png?raw=true" width="80"/></a>
