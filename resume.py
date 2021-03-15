@@ -37,8 +37,8 @@ def make_html(mdlines: List[str]) -> str:
     """
     return "".join(
         (
-            preamble.format(title=title(mdlines)),
-            markdown.markdown("".join(mdlines), extensions=["smarty"]),
+            preamble.format(title=mdlines[0]),
+            markdown.markdown("".join(mdlines), extensions=["extra"]),
             postamble,
         )
     )
