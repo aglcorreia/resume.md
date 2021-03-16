@@ -7,11 +7,11 @@ watch:
 
 resume_html: resume.md resume.py
 	. ./venv/bin/activate;\
-	python resume.py
+	python resume.py resume.md resume.html resume.css
 
 resume_pdf: resume_html resume.css
 	. ./venv/bin/activate;\
-	weasyprint resume.html resume.pdf --presentational-hints;\
+	weasyprint resume.html resume.pdf -s resume.css --presentational-hints;\
 	deactivate
 clean:
 	rm -f resume.html resume.pdf

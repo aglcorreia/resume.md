@@ -1,6 +1,6 @@
-# resume.md
+forked from: https://raw.githubusercontent.com/mikepqr/resume.md
 
-![Resume](resume.png)
+# resume.md
 
 
 Write your resume in
